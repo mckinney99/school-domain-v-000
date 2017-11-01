@@ -8,6 +8,6 @@ class School
 
   def initialize(grade)
     @grade = grade
-    ROSTER << grade 
-  
+    ROSTER << grade
+
 end
